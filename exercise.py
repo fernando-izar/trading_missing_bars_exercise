@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import sys
 from dataclasses import dataclass
 from datetime import datetime, timedelta, time
 from decimal import Decimal, ROUND_HALF_UP
