@@ -1,0 +1,552 @@
+{
+  "change": -1.715,
+  "percentChange": -0.4187,
+  "bars": [
+    {
+      "dateTime": "2025-02-19T09:30:00-05:00",
+      "open": 407.88,
+      "close": 408.695,
+      "change": 0.815,
+      "percentChange": 0.1998
+    },
+    {
+      "dateTime": "2025-02-19T09:35:00-05:00",
+      "open": 408.6,
+      "close": 408.775,
+      "change": 0.175,
+      "percentChange": 0.0428
+    },
+    {
+      "dateTime": "2025-02-19T09:40:00-05:00",
+      "open": 408.775,
+      "close": 408.775,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T09:45:00-05:00",
+      "open": 409.1,
+      "close": 409.005,
+      "change": -0.095,
+      "percentChange": -0.0232
+    },
+    {
+      "dateTime": "2025-02-19T09:50:00-05:00",
+      "open": 409.005,
+      "close": 409.3899,
+      "change": 0.3849,
+      "percentChange": 0.0941
+    },
+    {
+      "dateTime": "2025-02-19T09:55:00-05:00",
+      "open": 409.33,
+      "close": 409.38,
+      "change": 0.05,
+      "percentChange": 0.0122
+    },
+    {
+      "dateTime": "2025-02-19T10:00:00-05:00",
+      "open": 409.38,
+      "close": 409.38,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:05:00-05:00",
+      "open": 409.38,
+      "close": 409.38,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:10:00-05:00",
+      "open": 408.325,
+      "close": 408.115,
+      "change": -0.21,
+      "percentChange": -0.0514
+    },
+    {
+      "dateTime": "2025-02-19T10:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T10:55:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:00:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:05:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:10:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T11:55:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:00:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:05:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:10:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T12:55:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:00:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:05:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:10:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T13:55:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:00:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:05:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:10:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T14:55:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:00:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:05:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:10:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:15:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:20:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:25:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:30:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:35:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:40:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:45:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:50:00-05:00",
+      "open": 408.115,
+      "close": 408.115,
+      "change": 0.0,
+      "percentChange": 0.0
+    },
+    {
+      "dateTime": "2025-02-19T15:55:00-05:00",
+      "open": 414.38,
+      "close": 414.82,
+      "change": 0.44,
+      "percentChange": 0.1062
+    }
+  ]
+}
