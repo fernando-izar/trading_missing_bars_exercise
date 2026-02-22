@@ -68,7 +68,7 @@ class Bar:
 
     def with_calculated_change(self) -> "BarWithChange":
         change = self.close - self.open
-        pct = Decimal("0") if self.open == 0 else (change / self.open) * Decimal("100")
+        pct = _d(0) if self.open == 0 else (change / self.open) * _d(100)
         return BarWithChange(
             date_time=self.start,
             open=self.open,
@@ -87,7 +87,7 @@ class BarWithChange:
     percent_change: Decimal
 
     def to_dict(self) -> Dict:
-        # You can tune rounding here if your evaluator expects a specific precision.
+        # It is possible to tune an specific precision.
         # These are reasonable defaults:
         change = _round_decimal(self.change, 6)
         pct = _round_decimal(self.percent_change, 4)
@@ -198,9 +198,9 @@ class ChangeCalculator:
     def day_change(self, quote: Quote) -> Tuple[Decimal, Decimal]:
         change = quote.last - quote.previous_close
         pct = (
-            Decimal("0")
+            _d(0)
             if quote.previous_close == 0
-            else (change / quote.previous_close) * Decimal("100")
+            else (change / quote.previous_close) * _d(100)
         )
         return change, pct
 
@@ -232,15 +232,16 @@ class ExerciseRunner:
 
 
 def main():
-    # if len(sys.argv) > 1 and sys.argv[1].lower() == "test":
-    #     run_tests()
-    #     return
-
     client = HttpJsonClient()
     service = MarketDataService(client)
     runner = ExerciseRunner(service)
 
     result = runner.run()
+
+    # Save result to local JSON file
+    with open("result.json", "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
     print(json.dumps(result, ensure_ascii=False))
 
 
