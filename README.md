@@ -54,3 +54,9 @@ Feel free to add any packages you need.
 ```bash
 $ python3 exercise.py
 ```
+
+## Run tests
+
+```bash
+$ python3 -m unittest -v test_exercise.py
+```
